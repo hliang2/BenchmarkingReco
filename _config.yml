@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Benchmarking Face Analysis Systems Using Synthetic Faces and Human Evaluation
-# description: A method using image geneartors to visually explain the bias from x-ray images
+title: Benchmarking Algorithmic Bias in Face Recognition
+description: An Experimental Approach Using Synthetic Faces and Human Evaluation
