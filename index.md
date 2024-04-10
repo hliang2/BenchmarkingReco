@@ -3,6 +3,14 @@ In this research project, we propose an experimental method for measuring bias i
 
 Our method is based on generating synthetic faces using a neural face generator, where each attribute of interest is modified independently while leaving all other attributes constant. Human observers crucially provide the ground truth on perceptual identity similarity between synthetic image pairs. We validate our method quantitatively by evaluating race and gender biases of three research-grade face recognition models. Our synthetic pipeline reveals that for these algorithms, accuracy is lower for Black and East Asian population subgroups. Our method can also quantify how perceptual changes in attributes affect face identity distances reported by these models. 
 
+## Paper
+[**Benchmarking Algorithmic Bias in Face Recognition: An Experimental Approach Using Synthetic Faces and Human Evaluation**](https://arxiv.org/abs/2308.05441)
+Hao Liang, Pietro Perona, Guha Balakrishnan
+ICCV 2023
+
+[**Towards causal benchmarking of face analysis algorithms**](https://arxiv.org/abs/2007.06570)
+Guha Balakrishnan, Yuanjun Xiong, Wei Xia, Pietro Perona
+ECCV 2020
 
 ## Dataset
-Our large synthetic dataset, CausalFace, consisting of 48,000 synthetic face image pairs (10,200 unique synthetic faces) and 555,000 human annotations (individual attributes and pairwise identity comparisons) is available to researchers in this important area. Please refer to the paper for more details about the dataset.
+Our large synthetic dataset, **CausalFace**, consisting of 48,000 synthetic face image pairs (10,200 unique synthetic faces) and 555,000 human annotations (individual attributes and pairwise identity comparisons) is available to researchers in this important area. Below is an example of, the full version as well as the annotations are available [here](https://rice.box.com/s/0t7dtfurh8jf80mhq3f7s8nbya2g58w9)
