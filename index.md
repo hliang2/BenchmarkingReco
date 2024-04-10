@@ -13,4 +13,13 @@ Guha Balakrishnan, Yuanjun Xiong, Wei Xia, Pietro Perona<br>
 ECCV 2020
 
 ## Dataset
-Our large synthetic dataset, **CausalFace**, consisting of 48,000 synthetic face image pairs (10,200 unique synthetic faces) and 555,000 human annotations (individual attributes and pairwise identity comparisons) is available to researchers in this important area. Below is an example of, the full version as well as the annotations are available [here](https://rice.box.com/s/0t7dtfurh8jf80mhq3f7s8nbya2g58w9)
+Our large synthetic dataset, **CausalFace**, consisting of 48,000 synthetic face image pairs (10,200 unique synthetic faces) and 555,000 human annotations (individual attributes and pairwise identity comparisons) is available to researchers in this important area. Below is an example of, the full version as well as the annotations are available [here](https://rice.box.com/s/0t7dtfurh8jf80mhq3f7s8nbya2g58w9).
+
+<div align="center">
+<img src = "https://github.com/hliang2/BenchmarkingReco/blob/main/attributes.png">
+</div>
+
+<div align="center">
+<img src = "https://github.com/hliang2/BenchmarkingReco/blob/main/attributes.png">
+</div>
+
