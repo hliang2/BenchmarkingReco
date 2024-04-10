@@ -26,5 +26,3 @@ systematically race and gender (M=Male, F=Female, W=White, B=Black, A=East Asian
     <img src="https://github.com/hliang2/BenchmarkingReco/blob/main/attributes.png" alt><br>
     <em>Figure 2. Examples of modifying non-sensitive attributes. We modify each prototype face along various attributes.</em>
 </div>
-
-![Timecrafting](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129012&type=card)
