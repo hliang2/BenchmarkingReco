@@ -14,7 +14,7 @@ systematically race and gender (M=Male, F=Female, W=White, B=Black, A=East Asian
 </div>
 
 <div align="center">
-    <img src="https://github.com/hliang2/BenchmarkingReco/blob/main/attributes.png" alt><br>
+    <img src="attributes.png" alt><br>
     <em>Figure 2. Examples of modifying non-sensitive attributes. We modify each prototype face along various attributes.</em>
 </div>
 
