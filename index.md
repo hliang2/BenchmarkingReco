@@ -7,7 +7,7 @@ Our method is based on generating synthetic faces using a neural face generator,
 Our large synthetic dataset, **CausalFace**, consisting of 48,000 synthetic face image pairs (10,200 unique synthetic faces) and 555,000 human annotations (individual attributes and pairwise identity comparisons) is available to researchers in this important area. Below is an example of our dataset, the full version of the images and their annotations are available [here](https://rice.box.com/s/0t7dtfurh8jf80mhq3f7s8nbya2g58w9).
 
 <div align="center">
-    <img src="https://github.com/hliang2/BenchmarkingReco/blob/main/prototype.png" alt><br>
+    <img src="prototype.png" alt><br>
     <em>Figure 1. Examples of prototypes image spanning sensitive attributes of race and gender. we generate random “seed” images by sampling randomly in the latent space of our face generator. Starting
 from each seed, we perform latent space traversals along latent dimensions correlated with sensitive attributes to produce faces depicting different “demographic groups” by varying
 systematically race and gender (M=Male, F=Female, W=White, B=Black, A=East Asian).</em>
