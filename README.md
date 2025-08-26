@@ -6,7 +6,7 @@ This repository accompanies the ICCV 2023 paper:
 
 **Benchmarking Algorithmic Bias in Face Recognition: An Experimental Approach Using Synthetic Faces and Human Evaluation**  
 Hao Liang (Rice University), Pietro Perona (Caltech & AWS), Guha Balakrishnan (Rice University)  
-📄 [Paper]([https://openaccess.thecvf.com/content/ICCV2023/html/Liang_Benchmarking_Algorithmic_Bias_in_Face_Recognition_ICCV_2023_paper.html](https://openaccess.thecvf.com/content/ICCV2023/papers/Liang_Benchmarking_Algorithmic_Bias_in_Face_Recognition_An_Experimental_Approach_Using_ICCV_2023_paper.pdf))
+📄 [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liang_Benchmarking_Algorithmic_Bias_in_Face_Recognition_An_Experimental_Approach_Using_ICCV_2023_paper.pdf)
 
 We propose an **experimental framework** to measure algorithmic bias in face recognition using **synthetic face datasets** and **human perceptual annotations**.  
 Unlike traditional observational benchmarks, our method manipulates attributes independently, enabling **causal conclusions** about bias.  
